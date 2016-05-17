@@ -12,7 +12,7 @@
     width: 970px;
     height: 70px;
     margin: 0 auto;
- 
+
 }
 .logo {
 padding: 0px 15px;
@@ -54,7 +54,7 @@ letter-spacing: 0.03em;
  * Introduction Section
  */
 .introduction {
-    background-image: url('../img/first-background.jpg');
+    background-image: url('../images/first-background.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
