@@ -93,6 +93,13 @@ font-weight: 300;
   overflow: hidden;
   padding-bottom: 5rem;
 }
+.cases .devices{
+  width: 33.3333333%;
+  display: inline-block;
+  border: 1px solid black;
+  box-sizing: border-box;
+  height: 4em;
+}
 .introduction h1 {
     margin-top: 17.5rem;
     font-size: 3.125rem;
